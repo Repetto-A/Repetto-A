@@ -33,12 +33,12 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Repetto-A/Operaciones-CRUD-con-GUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=Operaciones-CRUD-con-GUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Operaciones-CRUD-con-GUI" />
-</a>
-
 
 <a href="https://github.com/MiguelMussi/NASA_SpaceApps2024">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelmussi&repo=NASA_SpaceApps2024&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NASA_SpaceApps2024" />
+</a>
+
+<a href="https://github.com/Repetto-A/Operaciones-CRUD-con-GUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=Operaciones-CRUD-con-GUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Operaciones-CRUD-con-GUI" />
 </a>
 
