@@ -3,11 +3,11 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer(in_Progress):
+class SystemsEngineer(in_Progress):
 
     def __init__(self):
         self.name = "Alejandro Repetto"
-        self.role = "Software Engineer"
+        self.role = "Systems Engineer"
         self.language_spoken = ["en_US", "it_IT", "es_AR"]
 
     def say_hi(self):
