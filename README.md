@@ -33,12 +33,18 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<a href="https://github.com/MiguelMussi/NASA_SpaceApps2024">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelmussi&repo=NASA_SpaceApps2024&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NASA_SpaceApps2024" />
-</a>
+  <a href="https://github.com/Repetto-A/Real_Estate_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=Real_Estate_System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  </a>
 
-<a href="https://github.com/Repetto-A/cotibot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=cotibot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cotibot" />
-</a>
+  <a href="https://github.com/Repetto-A/cotibot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=cotibot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  </a>
 
+  <a href="https://github.com/MiguelMussi/NASA_SpaceApps2024">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelmussi&repo=NASA_SpaceApps2024&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  </a>
+
+</div>
