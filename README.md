@@ -47,16 +47,16 @@ me.say_hi()
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=BrainTumorAI-Web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 
+  <a href="https://github.com/Repetto-A/Bridgify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Repetto-A&repo=Bridgify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  </a>
+
   <a href="https://github.com/Repetto-A/FarmHero">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=FarmHero&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 
-  <a href="https://github.com/lucianoacosta23/Bridgify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucianoacosta23&repo=Bridgify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-  </a>
-
-  <a href="https://github.com/MiguelMussi/NASA_SpaceApps2024">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelmussi&repo=NASA_SpaceApps2024&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <a href="https://github.com/Repetto-A/AI-Seismic-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=AI-Seismic-Detection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 
 </div>
