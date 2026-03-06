@@ -87,27 +87,27 @@ me.say_hi()
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   <a href="https://github.com/Repetto-A/Real_Estate_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=Real_Estate_System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img src="https://github-readme-stats-hobvzmh1m-repettoas-projects.vercel.app/api/pin/?username=repetto-a&repo=Real_Estate_System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 
   <a href="https://github.com/Repetto-A/cotibot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=cotibot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img src="https://github-readme-stats-hobvzmh1m-repettoas-projects.vercel.app/api/pin/?username=repetto-a&repo=cotibot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
   
   <a href="https://github.com/Repetto-A/BrainTumorAI-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=BrainTumorAI-Web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img src="https://github-readme-stats-hobvzmh1m-repettoas-projects.vercel.app/api/pin/?username=repetto-a&repo=BrainTumorAI-Web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 
   <a href="https://github.com/Repetto-A/Bridgify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Repetto-A&repo=Bridgify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img src="https://github-readme-stats-hobvzmh1m-repettoas-projects.vercel.app/api/pin/?username=Repetto-A&repo=Bridgify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 
   <a href="https://github.com/Repetto-A/FarmHero">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=FarmHero&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img src="https://github-readme-stats-hobvzmh1m-repettoas-projects.vercel.app/api/pin/?username=repetto-a&repo=FarmHero&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 
   <a href="https://github.com/Repetto-A/AI-Seismic-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=repetto-a&repo=AI-Seismic-Detection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img src="https://github-readme-stats-hobvzmh1m-repettoas-projects.vercel.app/api/pin/?username=repetto-a&repo=AI-Seismic-Detection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 
 </div>
