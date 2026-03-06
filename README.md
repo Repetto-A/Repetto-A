@@ -7,18 +7,19 @@ class SystemsEngineer(in_Progress):
 
     def __init__(self):
         self.name = "Alejandro Repetto"
-        self.role = "Software Developer"
-        self.focus = ["AI", "Automation", "Business Intelligence"]
+        self.role = "Software Engineer"
+        self.focus = ["Product Engineering", "Agent Orchestration", "Automation", "Data & Applied ML"]
+        self.obsessions = ["Hackathons", "Competitive Programming", "Building in public", "Cybersecurity CTFs"]
+        self.recognition = ["NASA Global Nominee", "ETH Global Awarded", "ETH Argentina Awarded"]
         self.language_spoken = ["en_US", "it_IT", "es_AR"]
-        self.competitions = ["TAP Competitor (ICPC)", "Cybersecurity CTFs"]
-        self.current_work = "Building scalable AI-driven systems at RoxiumLabs LLC"
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting 🚀")
+    def introduce(self):
+    return "I like building weird and useful things 🚀"
 
 
-me = SystemsEngineer()
-me.say_hi()
+if __name__ == "__main__":
+    me = SystemsEngineer()
+    print(me.introduce())
 ```
 
 ## 🔧 Technologies & Tools
